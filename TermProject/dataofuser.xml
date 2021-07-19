@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="16.0.1" class="java.beans.XMLDecoder">
+ <object class="FoodOrdering.userlistascollege">
+  <void property="list">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="FoodOrdering.User">
+      <void property="password">
+       <string>1234</string>
+      </void>
+      <void property="username">
+       <string>bharat82111</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
